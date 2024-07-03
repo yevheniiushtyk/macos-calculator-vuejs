@@ -375,6 +375,7 @@
         cursor: pointer;
         user-select: none;
         transition: background-color 0.1s;
+        outline: none;
     }
 
     .button.function {
